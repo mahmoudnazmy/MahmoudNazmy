@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-  [![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@YOUR_USER_ID)
 # 👋 أهلاً! أنا محمود نظمي
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%92%BB;Building+Amazing+Experiences+%E2%9C%A8" alt="Typing SVG" />
