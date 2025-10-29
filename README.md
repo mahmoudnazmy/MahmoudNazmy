@@ -120,18 +120,16 @@ const myLife = () => {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Let's Connect & Build Something Amazing
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mahmoudnazmy.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahmoudnazmy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)
+[![Facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/11mahmoud12)
 
-<br/>
+
 
 **💼 Open for freelance projects | 🤝 Available for collaborations | ☕ Always up for tech discussions**
 
