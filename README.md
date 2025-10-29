@@ -98,14 +98,7 @@ const myLife = () => {
 // TODO: Add "exercise()" to the loop... someday 🏃‍♂️
 ```
 
-<div align="center">
 
-🔭 Currently working on **scalable web applications**  
-🌱 Learning **System Design** and **Cloud Architecture**  
-💡 Open to **collaborating on innovative projects**  
-⚡ Fun fact: **My code works, I have no idea why**
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -140,17 +133,7 @@ const myLife = () => {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
