@@ -1,68 +1,116 @@
 <div align="center">
+  
+# 👋 أهلاً! أنا محمود نظمي
 
-<!-- HERO -->
-# 👋 Hi — I'm Mahmoud Nazmy  
-**Senior Full-Stack Engineer · Design-minded · Open-Source Builder**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%92%BB;Building+Amazing+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00D9FF&center=true&lines=Building+fast+delightful+web+experiences;Design+systems+%E2%9D%A4%EF%B8%8F+%7C+TypeScript+%7C+Next.js" alt="typing" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudNazmy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/MahmoudNazmy?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/MahmoudNazmy?label=Stars&style=social" alt="stars" />
+</p>
 
 </div>
 
 ---
+
+## 🚀 عني
+```javascript
+const mahmoud = {
+    location: "Alexandria, Egypt 🇪🇬",
+    currentFocus: "Building scalable web applications",
+    interests: ["Web Development", "UI/UX Design", "Open Source"],
+    funFact: "I debug with console.log() and I'm proud! 😄",
+    motto: "Code is poetry written in logic 💻✨"
+};
+```
 
 <div align="center">
 
-<!-- Quick badges -->
-![Location](https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-0e75b6?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open--Source-Active-0f7bff?style=for-the-badge)
-![Availability](https://img.shields.io/badge/Available-for%20collab-22c55e?style=for-the-badge)
+### 💼 حالياً أعمل على
+🔭 تطوير تطبيقات ويب احترافية بتقنيات حديثة  
+🌱 أتعلم **TypeScript** و **Next.js 14**  
+👯 أبحث عن فرص التعاون في مشاريع **Open Source**  
+💬 اسألني عن **React, Node.js, Tailwind CSS**  
+⚡ حقيقة: أحب القهوة أكثر من الكود ☕ (تقريباً!)
 
 </div>
 
 ---
 
-## ✨ Snapshot
-> I craft fast, accessible web apps with clean architecture and pixel-perfect UI. I love turning product ideas into delightful experiences.
-
-- Focus: **Next.js / TypeScript / React / Design Systems**  
-- Strengths: performance, DX, component architecture, end-to-end ownership  
-- Also: mentoring, docs, and OSS tooling
-
----
-
-## 🎨 Visual gallery
-*(Swap these with your custom illustrations/screens / project screenshots)*
+## 🛠️ التقنيات والأدوات
 
 <div align="center">
 
-<img src="https://source.unsplash.com/900x300/?code,computer" alt="illustration-hero" width="900" style="max-width:100%;border-radius:12px;box-shadow:0 12px 30px rgba(2,6,23,0.2)"/>
-<br><br>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<table>
-  <tr>
-    <td><img src="https://source.unsplash.com/360x220/?ui,web" alt="ui" width="300" style="border-radius:10px"/></td>
-    <td><img src="https://placehold.co/300x220/png?text=Design+System+Preview" alt="design-system" width="300" style="border-radius:10px"/></td>
-    <td><img src="https://source.unsplash.com/360x220/?developer,workspace" alt="workspace" width="300" style="border-radius:10px"/></td>
-  </tr>
-</table>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 🧰 Core stack
+## 📊 إحصائيات GitHub
+
 <div align="center">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="ts"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="node"/>
-<img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" alt="pg"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="figma"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNazmy&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudNazmy&theme=tokyonight)
+
 </div>
 
 ---
 
-## 🔗 Featured projects
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudNazmy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 نشاط المساهمة
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNazmy&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💼 مشاريع مميزة
+
 <div align="center">
 
 [![SmileStudio](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudNazmy&repo=smilestudio&theme=tokyonight)](https://github.com/MahmoudNazmy/smilestudio)
@@ -72,31 +120,61 @@
 
 ---
 
-## 📊 Quick metrics
-<div align="center">
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats"/>
-<img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudNazmy&theme=tokyonight" alt="streak"/>
-</div>
+## 🎯 أهدافي 2025
+
+- [x] إطلاق 5 مشاريع Open Source
+- [ ] المساهمة في 20 مشروع مختلف
+- [ ] كتابة 50 مقال تقني
+- [ ] الوصول إلى 1000 متابع على GitHub
+- [ ] بناء مجتمع للمطورين العرب
 
 ---
 
-## 🎯 2025 Focus
-- Ship a public **design system** and a set of DX tools  
-- Publish practical guides on architecture & testing  
-- Grow an Arabic-speaking developer community
+## 📫 تواصل معي
 
----
-
-## 📬 Reach out
 <div align="center">
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahmoudnazmy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mahmoudnazmy.dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
+
+</div>
+
+---
+
+## 💭 اقتباس عشوائي للمطورين
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 مساهماتي
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/MahmoudNazmy/MahmoudNazmy/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" />
-<p style="opacity:0.8">Made with ☕ + a love for clean interfaces · <strong>Let's build something beautiful.</strong></p>
+
+### 💡 "Code is like humor. When you have to explain it, it's bad!" 😄
+
+**شكراً لزيارتك! لا تنسى ⭐ المشاريع التي أعجبتك!**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+**صنع بـ 💙 وكميات غير محدودة من ☕**
+
+![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)
+![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
 </div>
