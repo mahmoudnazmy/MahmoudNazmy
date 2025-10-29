@@ -1,26 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahmoud%20Nazmy&fontSize=42&fontColor=fff&animation=twinkling" />
+# Hi there, I'm Mahmoud Nazmy 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Bug+Hunter+%26+Feature+Creator+%F0%9F%8E%AF;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+### Full Stack Developer | UI/UX Enthusiast | Problem Solver
 
-<br/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Building+digital+experiences;Clean+code+enthusiast;Always+learning+new+things;Turning+coffee+into+code" alt="Typing SVG" />
+</p>
 
-**`Senior Full Stack Developer • UI/UX Enthusiast • Open Source Contributor`**
+[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudNazmy&color=6366f1&style=flat-square)](https://github.com/MahmoudNazmy)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudNazmy&label=Profile%20Views&color=6366f1&style=flat)](https://github.com/MahmoudNazmy)
-[![GitHub followers](https://img.shields.io/github/followers/MahmoudNazmy?label=Followers&style=social)](https://github.com/MahmoudNazmy?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/MahmoudNazmy?label=Stars&style=social)](https://github.com/MahmoudNazmy)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 ```typescript
+typescript
 class Developer {
   name: string = "Mahmoud Nazmy";
-  location: string = "Alexandria, Egypt 🇪🇬";
   role: string = "Senior Full Stack Developer";
   
   languages: string[] = ["JavaScript", "TypeScript", "Python"];
@@ -39,7 +39,6 @@ class Developer {
   }
 }
 ```
-
 <div align="center">
 
 **🔭 Building** scalable web applications | **🌱 Learning** cloud architecture & system design  
@@ -49,11 +48,11 @@ class Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Arsenal
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Magic
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,7 +62,7 @@ class Developer {
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend Wizardry
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,7 +70,7 @@ class Developer {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 DevOps & Tools
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -83,7 +82,7 @@ class Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎮 Daily Routine
+## 💼 What I'm Up To
 ```javascript
 const myLife = () => {
   while (alive) {
@@ -99,9 +98,18 @@ const myLife = () => {
 // TODO: Add "exercise()" to the loop... someday 🏃‍♂️
 ```
 
+<div align="center">
+
+🔭 Currently working on **scalable web applications**  
+🌱 Learning **System Design** and **Cloud Architecture**  
+💡 Open to **collaborating on innovative projects**  
+⚡ Fun fact: **My code works, I have no idea why**
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 2025 Mission Control
+## 🎯 2025 Goals & Achievements
 
 <div align="center">
 
@@ -118,40 +126,33 @@ const myLife = () => {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Achievements
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MahmoudNazmy&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mahmoudnazmy.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahmoudnazmy)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNazmy&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudNazmy&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌊 Contribution Activity
+## 💭 Random Dev Quote
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNazmy&custom_title=Mahmoud's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -159,43 +160,7 @@ const myLife = () => {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💬 Let's Connect & Build Something Amazing
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mahmoudnazmy.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahmoudnazmy)
-
-<br/>
-
-**💼 Open for freelance projects | 🤝 Available for collaborations | ☕ Always up for tech discussions**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Philosophy
-
-<div align="center">
-```javascript
-if (code.works) {
-  dont.touch();
-} else {
-  try.again();
-  // or blame_it_on_javascript();
-}
-```
-
-**"Any fool can write code that a computer can understand.**  
-**Good programmers write code that humans can understand."** - Martin Fowler
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
 
@@ -204,10 +169,6 @@ if (code.works) {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-**Made with 💙 and lots of ☕ by Mahmoud Nazmy**
-
-![Visitor Count](https://profile-counter.glitch.me/MahmoudNazmy/count.svg)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
