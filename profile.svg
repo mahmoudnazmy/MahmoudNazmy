@@ -1,0 +1,313 @@
+<svg viewBox="0 0 860 1800" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="1800" fill="#0d0d0d" rx="10"/>
+
+  <!-- Titlebar -->
+  <rect width="860" height="36" fill="#1a1a1a" rx="10"/>
+  <rect y="18" width="860" height="18" fill="#1a1a1a"/>
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="6" fill="#28c840"/>
+  <text x="430" y="23" fill="#555" font-size="11" text-anchor="middle" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar: ~/profile</text>
+
+  <!-- ASCII Art: MAHMOUD (green) -->
+  <text x="30" y="68" fill="#39FF14" font-size="8.5" font-family="'Courier New', monospace">███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗ ██████╗ ██╗   ██╗██████╗</text>
+  <text x="30" y="79" fill="#39FF14" font-size="8.5" font-family="'Courier New', monospace">████╗ ████║██╔══██╗██║  ██║████╗ ████║██╔═══██╗██║   ██║██╔══██╗</text>
+  <text x="30" y="90" fill="#39FF14" font-size="8.5" font-family="'Courier New', monospace">██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║   ██║██║  ██║</text>
+  <text x="30" y="101" fill="#39FF14" font-size="8.5" font-family="'Courier New', monospace">██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║   ██║██║  ██║</text>
+  <text x="30" y="112" fill="#39FF14" font-size="8.5" font-family="'Courier New', monospace">██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██████╔╝</text>
+  <text x="30" y="123" fill="#39FF14" font-size="8.5" font-family="'Courier New', monospace">╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝</text>
+
+  <!-- ASCII Art: NAZMY (red) -->
+  <text x="120" y="143" fill="#ff4444" font-size="8.5" font-family="'Courier New', monospace">███╗   ██╗ █████╗ ███████╗███╗   ███╗██╗   ██╗</text>
+  <text x="120" y="154" fill="#ff4444" font-size="8.5" font-family="'Courier New', monospace">████╗  ██║██╔══██╗╚══███╔╝████╗ ████║╚██╗ ██╔╝</text>
+  <text x="120" y="165" fill="#ff4444" font-size="8.5" font-family="'Courier New', monospace">██╔██╗ ██║███████║  ███╔╝ ██╔████╔██║ ╚████╔╝</text>
+  <text x="120" y="176" fill="#ff4444" font-size="8.5" font-family="'Courier New', monospace">██║╚██╗██║██╔══██║ ███╔╝  ██║╚██╔╝██║  ╚██╔╝</text>
+  <text x="120" y="187" fill="#ff4444" font-size="8.5" font-family="'Courier New', monospace">██║ ╚████║██║  ██║███████╗██║ ╚═╝ ██║   ██║</text>
+  <text x="120" y="198" fill="#ff4444" font-size="8.5" font-family="'Courier New', monospace">╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝   ╚═╝</text>
+
+  <!-- Subtitle -->
+  <text x="430" y="222" fill="#555" font-size="12" text-anchor="middle" font-family="'Courier New', monospace">Full-Stack Dev  |  Automation  |  SOC Analyst in Training</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="234" x2="830" y2="234" stroke="#1e1e1e" stroke-width="1"/>
+
+  <!-- SECTION: cat identity.yaml -->
+  <text x="30" y="256" fill="#39FF14" font-size="12" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="198" y="256" fill="#ffffff" font-size="12" font-family="'Courier New', monospace" font-weight="bold"> cat identity.yaml</text>
+
+  <rect x="30" y="266" width="800" height="148" fill="#111111" rx="4" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="46" y="285" fill="#39FF14" font-size="10.5" font-family="'Courier New', monospace">// system identity</text>
+
+  <text x="46" y="304" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">name        </text>
+  <text x="156" y="304" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace">Mahmoud Nazmy</text>
+
+  <text x="46" y="320" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">location    </text>
+  <text x="156" y="320" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace">Kafr El-Dawar, Alexandria — Egypt</text>
+
+  <text x="46" y="336" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">experience  </text>
+  <text x="156" y="336" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">5 years freelance  |  35+ projects shipped</text>
+
+  <text x="46" y="352" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">journey     </text>
+  <text x="156" y="352" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace">Dev </text>
+  <text x="182" y="352" fill="#555" font-size="11" font-family="'Courier New', monospace">→</text>
+  <text x="196" y="352" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace"> Automation </text>
+  <text x="278" y="352" fill="#555" font-size="11" font-family="'Courier New', monospace">→</text>
+  <text x="292" y="352" fill="#ff4444" font-size="11" font-family="'Courier New', monospace"> [ SOC Analyst ]</text>
+
+  <text x="46" y="368" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">status      </text>
+  <text x="156" y="368" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">TRANSITIONING</text>
+  <text x="340" y="368" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">mode: </text>
+  <text x="390" y="368" fill="#00bfff" font-size="11" font-family="'Courier New', monospace">LEARNING</text>
+
+  <text x="46" y="400" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">open_to     </text>
+  <text x="156" y="400" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace">Freelance web/automation  |  Junior SOC / Blue Team</text>
+
+  <!-- SECTION: skills web -->
+  <text x="30" y="434" fill="#39FF14" font-size="12" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="198" y="434" fill="#ffffff" font-size="12" font-family="'Courier New', monospace" font-weight="bold"> ls skills/web/</text>
+
+  <text x="30" y="452" fill="#555" font-size="10" font-family="'Courier New', monospace">// WEB DEVELOPMENT</text>
+
+  <!-- Web skill badges -->
+  <rect x="30" y="460" width="90" height="26" fill="#161616" rx="4" stroke="#4FC08D44" stroke-width="1"/>
+  <text x="38" y="477" fill="#4FC08D" font-size="11" font-family="'Courier New', monospace">▸ Vue 3</text>
+
+  <rect x="128" y="460" width="75" height="26" fill="#161616" rx="4" stroke="#646CFF44" stroke-width="1"/>
+  <text x="136" y="477" fill="#646CFF" font-size="11" font-family="'Courier New', monospace">▸ Vite</text>
+
+  <rect x="211" y="460" width="100" height="26" fill="#161616" rx="4" stroke="#38B2AC44" stroke-width="1"/>
+  <text x="219" y="477" fill="#38B2AC" font-size="11" font-family="'Courier New', monospace">▸ Tailwind</text>
+
+  <rect x="319" y="460" width="115" height="26" fill="#161616" rx="4" stroke="#F7DF1E44" stroke-width="1"/>
+  <text x="327" y="477" fill="#F7DF1E" font-size="11" font-family="'Courier New', monospace">▸ JavaScript</text>
+
+  <rect x="442" y="460" width="80" height="26" fill="#161616" rx="4" stroke="#88CE0244" stroke-width="1"/>
+  <text x="450" y="477" fill="#88CE02" font-size="11" font-family="'Courier New', monospace">▸ GSAP</text>
+
+  <rect x="530" y="460" width="95" height="26" fill="#161616" rx="4" stroke="#ffffff22" stroke-width="1"/>
+  <text x="538" y="477" fill="#cccccc" font-size="11" font-family="'Courier New', monospace">▸ Three.js</text>
+
+  <rect x="633" y="460" width="110" height="26" fill="#161616" rx="4" stroke="#21759B44" stroke-width="1"/>
+  <text x="641" y="477" fill="#21759B" font-size="11" font-family="'Courier New', monospace">▸ WordPress</text>
+
+  <!-- SECTION: skills automation -->
+  <text x="30" y="512" fill="#39FF14" font-size="12" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="198" y="512" fill="#ffffff" font-size="12" font-family="'Courier New', monospace" font-weight="bold"> ls skills/automation/</text>
+
+  <text x="30" y="530" fill="#555" font-size="10" font-family="'Courier New', monospace">// AUTOMATION &amp; SCRIPTING</text>
+
+  <rect x="30" y="538" width="80" height="26" fill="#161616" rx="4" stroke="#3776AB44" stroke-width="1"/>
+  <text x="38" y="555" fill="#5b9bd5" font-size="11" font-family="'Courier New', monospace">▸ Python</text>
+
+  <rect x="118" y="538" width="70" height="26" fill="#161616" rx="4" stroke="#39FF1444" stroke-width="1"/>
+  <text x="126" y="555" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">▸ Bash</text>
+
+  <rect x="196" y="538" width="75" height="26" fill="#161616" rx="4" stroke="#FCC62444" stroke-width="1"/>
+  <text x="204" y="555" fill="#FCC624" font-size="11" font-family="'Courier New', monospace">▸ Linux</text>
+
+  <rect x="279" y="538" width="65" height="26" fill="#161616" rx="4" stroke="#EA4B7144" stroke-width="1"/>
+  <text x="287" y="555" fill="#EA4B71" font-size="11" font-family="'Courier New', monospace">▸ n8n</text>
+
+  <rect x="352" y="538" width="100" height="26" fill="#161616" rx="4" stroke="#9c27b044" stroke-width="1"/>
+  <text x="360" y="555" fill="#9c27b0" font-size="11" font-family="'Courier New', monospace">▸ Make.com</text>
+
+  <!-- SECTION: skills security -->
+  <text x="30" y="590" fill="#39FF14" font-size="12" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="198" y="590" fill="#ffffff" font-size="12" font-family="'Courier New', monospace" font-weight="bold"> ls skills/security/ </text>
+  <text x="510" y="590" fill="#ff4444" font-size="12" font-family="'Courier New', monospace"># IN PROGRESS</text>
+
+  <text x="30" y="608" fill="#555" font-size="10" font-family="'Courier New', monospace">// SECURITY — LEARNING</text>
+
+  <rect x="30" y="616" width="100" height="26" fill="#161616" rx="4" stroke="#ff444433" stroke-width="1"/>
+  <text x="38" y="633" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">▸ Kali Linux</text>
+
+  <rect x="138" y="616" width="105" height="26" fill="#161616" rx="4" stroke="#1679A744" stroke-width="1"/>
+  <text x="146" y="633" fill="#1679A7" font-size="11" font-family="'Courier New', monospace">▸ Wireshark</text>
+
+  <rect x="251" y="616" width="110" height="26" fill="#161616" rx="4" stroke="#ff444433" stroke-width="1"/>
+  <text x="259" y="633" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">▸ Wazuh SIEM</text>
+
+  <rect x="369" y="616" width="110" height="26" fill="#161616" rx="4" stroke="#183A6144" stroke-width="1"/>
+  <text x="377" y="633" fill="#7a9bc0" font-size="11" font-family="'Courier New', monospace">▸ VirtualBox</text>
+
+  <rect x="487" y="616" width="130" height="26" fill="#161616" rx="4" stroke="#ff444433" stroke-width="1"/>
+  <text x="495" y="633" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">▸ MITRE ATT&amp;CK</text>
+
+  <!-- Skill bars -->
+  <text x="30" y="668" fill="#555" font-size="10" font-family="'Courier New', monospace">// PROFICIENCY</text>
+
+  <!-- Bar: Vue -->
+  <text x="30" y="686" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Vue 3      </text>
+  <rect x="120" y="677" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="677" width="464" height="7" fill="#4FC08D" rx="3"/>
+  <text x="710" y="686" fill="#4FC08D" font-size="10" font-family="'Courier New', monospace">80%</text>
+
+  <!-- Bar: Tailwind -->
+  <text x="30" y="702" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Tailwind   </text>
+  <rect x="120" y="693" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="693" width="522" height="7" fill="#39FF14" rx="3"/>
+  <text x="710" y="702" fill="#39FF14" font-size="10" font-family="'Courier New', monospace">90%</text>
+
+  <!-- Bar: Python -->
+  <text x="30" y="718" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Python     </text>
+  <rect x="120" y="709" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="709" width="406" height="7" fill="#3776AB" rx="3"/>
+  <text x="710" y="718" fill="#3776AB" font-size="10" font-family="'Courier New', monospace">70%</text>
+
+  <!-- Bar: Bash -->
+  <text x="30" y="734" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Bash       </text>
+  <rect x="120" y="725" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="725" width="348" height="7" fill="#39FF14" rx="3"/>
+  <text x="710" y="734" fill="#39FF14" font-size="10" font-family="'Courier New', monospace">60%</text>
+
+  <!-- Bar: Linux -->
+  <text x="30" y="750" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Linux      </text>
+  <rect x="120" y="741" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="741" width="464" height="7" fill="#FCC624" rx="3"/>
+  <text x="710" y="750" fill="#FCC624" font-size="10" font-family="'Courier New', monospace">80%</text>
+
+  <!-- Bar: Networking -->
+  <text x="30" y="766" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Networking </text>
+  <rect x="120" y="757" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="757" width="348" height="7" fill="#00bfff" rx="3"/>
+  <text x="710" y="766" fill="#00bfff" font-size="10" font-family="'Courier New', monospace">60%</text>
+
+  <!-- Bar: Wireshark -->
+  <text x="30" y="782" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Wireshark  </text>
+  <rect x="120" y="773" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="773" width="174" height="7" fill="#ff4444" rx="3"/>
+  <text x="710" y="782" fill="#ff4444" font-size="10" font-family="'Courier New', monospace">30%</text>
+
+  <!-- Bar: Wazuh -->
+  <text x="30" y="798" fill="#aaa" font-size="10.5" font-family="'Courier New', monospace">Wazuh SIEM </text>
+  <rect x="120" y="789" width="580" height="7" fill="#1a1a1a" rx="3"/>
+  <rect x="120" y="789" width="116" height="7" fill="#ff4444" rx="3"/>
+  <text x="710" y="798" fill="#ff4444" font-size="10" font-family="'Courier New', monospace">20%</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="814" x2="830" y2="814" stroke="#1e1e1e" stroke-width="1"/>
+
+  <!-- SECTION: roadmap -->
+  <text x="30" y="834" fill="#39FF14" font-size="12" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="198" y="834" fill="#ffffff" font-size="12" font-family="'Courier New', monospace" font-weight="bold"> tail -f roadmap.log</text>
+
+  <rect x="30" y="844" width="800" height="248" fill="#111111" rx="4" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="46" y="862" fill="#555" font-size="10" font-family="'Courier New', monospace">@@ SOC ANALYST FAST TRACK — 2026 @@</text>
+
+  <text x="46" y="880" fill="#555" font-size="10.5" font-family="'Courier New', monospace">@@ PHASE 1 — FOUNDATION @@</text>
+  <text x="46" y="896" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">+ [✔] Linux fundamentals &amp; system administration</text>
+  <text x="46" y="911" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">+ [✔] Bash scripting          → 3 scripts built</text>
+  <text x="46" y="926" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">+ [✔] Python scripting         → 6 tools built</text>
+  <text x="46" y="941" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">+ [✔] Networking basics        → TCP/IP, OSI, DNS</text>
+
+  <text x="46" y="960" fill="#555" font-size="10.5" font-family="'Courier New', monospace">@@ PHASE 2 — ACTIVE @@</text>
+  <text x="46" y="976" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">! [▶] Networking deep dive     → Wireshark, tcpdump, nmap</text>
+  <text x="46" y="991" fill="#FFD600" font-size="11" font-family="'Courier New', monospace">! [▶] Security fundamentals    → MITRE ATT&amp;CK, Kill Chain</text>
+
+  <text x="46" y="1010" fill="#555" font-size="10.5" font-family="'Courier New', monospace">@@ PHASE 3 — QUEUED @@</text>
+  <text x="46" y="1026" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">- [ ] SIEM home lab            → Wazuh + VirtualBox</text>
+  <text x="46" y="1041" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">- [ ] Log analysis             → Windows, Linux, Web</text>
+  <text x="46" y="1056" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">- [ ] Windows &amp; Active Directory</text>
+  <text x="46" y="1071" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">- [ ] Incident Response &amp; alerting</text>
+
+  <text x="46" y="1082" fill="#1a1a1a" font-size="11" font-family="'Courier New', monospace">────────────────────────────────────────────────────</text>
+  <line x1="46" y1="1082" x2="800" y2="1082" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="46" y="1082" fill="#2a2a2a" font-size="11" font-family="'Courier New', monospace">──────────────────────────────────────────────────</text>
+  <text x="200" y="1082" fill="#00bfff" font-size="12" font-family="'Courier New', monospace" font-weight="bold">  TARGET → Junior SOC Analyst  [ Q4 2026 ]</text>
+
+  <!-- SECTION: projects -->
+  <text x="30" y="1116" fill="#39FF14" font-size="12" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="198" y="1116" fill="#ffffff" font-size="12" font-family="'Courier New', monospace" font-weight="bold"> ls ./projects/</text>
+
+  <!-- Project rows -->
+  <!-- Header -->
+  <rect x="30" y="1124" width="800" height="22" fill="#161616" rx="3"/>
+  <text x="40" y="1139" fill="#555" font-size="10" font-family="'Courier New', monospace">REPO</text>
+  <text x="280" y="1139" fill="#555" font-size="10" font-family="'Courier New', monospace">DESCRIPTION</text>
+  <text x="750" y="1139" fill="#555" font-size="10" font-family="'Courier New', monospace">STACK</text>
+
+  <!-- Row 1 -->
+  <rect x="30" y="1146" width="800" height="26" fill="#111" rx="2"/>
+  <text x="40" y="1163" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">bash-Failed-Login-Detector</text>
+  <text x="280" y="1163" fill="#aaa" font-size="11" font-family="'Courier New', monospace">Parses auth.log, detects brute-force IPs</text>
+  <rect x="748" y="1150" width="40" height="15" fill="#39FF1415" rx="3" stroke="#39FF1430" stroke-width="1"/>
+  <text x="753" y="1162" fill="#39FF14" font-size="9" font-family="'Courier New', monospace">Bash</text>
+
+  <!-- Row 2 -->
+  <rect x="30" y="1172" width="800" height="26" fill="#0d0d0d" rx="2"/>
+  <text x="40" y="1189" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">bash-file-organizer</text>
+  <text x="280" y="1189" fill="#aaa" font-size="11" font-family="'Courier New', monospace">Auto-organizes files by type &amp; date</text>
+  <rect x="748" y="1176" width="40" height="15" fill="#39FF1415" rx="3" stroke="#39FF1430" stroke-width="1"/>
+  <text x="753" y="1188" fill="#39FF14" font-size="9" font-family="'Courier New', monospace">Bash</text>
+
+  <!-- Row 3 -->
+  <rect x="30" y="1198" width="800" height="26" fill="#111" rx="2"/>
+  <text x="40" y="1215" fill="#4FC08D" font-size="11" font-family="'Courier New', monospace">portfolio</text>
+  <text x="280" y="1215" fill="#aaa" font-size="11" font-family="'Courier New', monospace">Personal site — dark cinematic, GSAP + Three.js</text>
+  <rect x="742" y="1202" width="52" height="15" fill="#4FC08D15" rx="3" stroke="#4FC08D30" stroke-width="1"/>
+  <text x="747" y="1214" fill="#4FC08D" font-size="9" font-family="'Courier New', monospace">Vue 3</text>
+
+  <!-- Row 4 -->
+  <rect x="30" y="1224" width="800" height="26" fill="#0d0d0d" rx="2"/>
+  <text x="40" y="1241" fill="#4FC08D" font-size="11" font-family="'Courier New', monospace">Wahy-Tilawah</text>
+  <text x="280" y="1241" fill="#aaa" font-size="11" font-family="'Courier New', monospace">Quran recitation tracker app</text>
+  <rect x="742" y="1228" width="52" height="15" fill="#F7DF1E15" rx="3" stroke="#F7DF1E30" stroke-width="1"/>
+  <text x="747" y="1240" fill="#F7DF1E" font-size="9" font-family="'Courier New', monospace">HTML/JS</text>
+
+  <!-- Row 5 -->
+  <rect x="30" y="1250" width="800" height="26" fill="#111" rx="2"/>
+  <text x="40" y="1267" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">soc-home-lab</text>
+  <text x="280" y="1267" fill="#aaa" font-size="11" font-family="'Courier New', monospace">VirtualBox: Kali attacks → Wazuh detects → report</text>
+  <rect x="738" y="1254" width="60" height="15" fill="#ff444415" rx="3" stroke="#ff444430" stroke-width="1"/>
+  <text x="743" y="1266" fill="#ff4444" font-size="9" font-family="'Courier New', monospace">coming</text>
+
+  <!-- Row 6 -->
+  <rect x="30" y="1276" width="800" height="26" fill="#0d0d0d" rx="2"/>
+  <text x="40" y="1293" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">threat-intel-reports</text>
+  <text x="280" y="1293" fill="#aaa" font-size="11" font-family="'Courier New', monospace">Malware analysis mapped to MITRE ATT&amp;CK</text>
+  <rect x="738" y="1280" width="60" height="15" fill="#ff444415" rx="3" stroke="#ff444430" stroke-width="1"/>
+  <text x="743" y="1292" fill="#ff4444" font-size="9" font-family="'Courier New', monospace">coming</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="1316" x2="830" y2="1316" stroke="#1e1e1e" stroke-width="1"/>
+
+  <!-- SECTION: connect -->
+  <text x="30" y="1338" fill="#39FF14" font-size="12" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="198" y="1338" fill="#ffffff" font-size="12" font-family="'Courier New', monospace" font-weight="bold"> ./connect.sh</text>
+
+  <!-- Connect buttons -->
+  <rect x="30" y="1348" width="120" height="28" fill="#161616" rx="4" stroke="#39FF1433" stroke-width="1"/>
+  <text x="46" y="1366" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">🌐 Portfolio</text>
+
+  <rect x="162" y="1348" width="110" height="28" fill="#161616" rx="4" stroke="#0A66C233" stroke-width="1"/>
+  <text x="178" y="1366" fill="#0A66C2" font-size="11" font-family="'Courier New', monospace">💼 LinkedIn</text>
+
+  <rect x="284" y="1348" width="112" height="28" fill="#161616" rx="4" stroke="#1877F233" stroke-width="1"/>
+  <text x="300" y="1366" fill="#1877F2" font-size="11" font-family="'Courier New', monospace">📘 Facebook</text>
+
+  <!-- Open for box -->
+  <rect x="30" y="1390" width="800" height="88" fill="#111111" rx="4" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="46" y="1410" fill="#555" font-size="10" font-family="'Courier New', monospace">// connection established — awaiting your message</text>
+  <text x="46" y="1430" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">[✔]</text>
+  <text x="76" y="1430" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace">Freelance web &amp; automation projects</text>
+  <text x="46" y="1448" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">[✔]</text>
+  <text x="76" y="1448" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace">Junior SOC / Blue Team roles</text>
+  <text x="46" y="1466" fill="#ff4444" font-size="11" font-family="'Courier New', monospace">[✘]</text>
+  <text x="76" y="1466" fill="#e0e0e0" font-size="11" font-family="'Courier New', monospace">Fake senior titles — not interested</text>
+
+  <!-- Footer -->
+  <line x1="30" y1="1494" x2="830" y2="1494" stroke="#1e1e1e" stroke-width="1"/>
+  <text x="30" y="1516" fill="#39FF14" font-size="11" font-family="'Courier New', monospace">mahmoud@kfr-el-dawar:~$</text>
+  <text x="200" y="1516" fill="#555" font-size="11" font-family="'Courier New', monospace">Stay curious. Stay sharp. Stay dangerous. █</text>
+
+  <text x="30" y="1536" fill="#2a2a2a" font-size="10" font-family="'Courier New', monospace">[ SYS ] Profile loaded. Builder → Defender mode: ON</text>
+  <text x="30" y="1550" fill="#2a2a2a" font-size="10" font-family="'Courier New', monospace">[ END ] Connection closed.</text>
+
+</svg>
