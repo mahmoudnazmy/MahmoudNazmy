@@ -1,158 +1,164 @@
+<!-- ============================================================
+     MAHMOUD NAZMY — GitHub Profile README
+     Dark / Terminal / Hacker aesthetic
+     ============================================================ -->
+
 <div align="center">
 
-# Mahmoud Nazmy
-
-### Linux • Cybersecurity • SOC Analyst Journey • Automation
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Linux+Enthusiast+%F0%9F%90%A7;Learning+Cybersecurity+Step+by+Step+%F0%9F%94%A5;Building+Bash+Automation+Tools+%F0%9F%9B%A0%EF%B8%8F;SOC+Analyst+in+Progress+%F0%9F%9A%80;Logs+Regex+Pipelines+%26+Linux+%F0%9F%91%80" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=MahmoudNazmy&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
+```
+███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗ ██████╗ ██╗   ██╗██████╗
+████╗ ████║██╔══██╗██║  ██║████╗ ████║██╔═══██╗██║   ██║██╔══██╗
+██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║   ██║██║  ██║
+██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║   ██║██║  ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝
+```
 
 ```bash
-whoami
+$ whoami
+mahmoud-nazmy
+
+$ cat /etc/identity
+> Full-Stack Developer  ──→  Automation Engineer  ──→  [ SOC Analyst ]
+> Status: Transitioning | Location: Alexandria, EG | Mode: LEARNING
 ```
 
-```yaml
-name: Mahmoud Nazmy
-role: Cybersecurity Learner
-focus:
-  - Linux
-  - Bash Scripting
-  - SOC Analysis
-  - Log Analysis
-  - Automation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Building+things+by+day...;Hunting+threats+by+night...;Logs+don't+lie.+I+read+them.;%24+sudo+become+soc-analyst)](https://git.io/typing-svg)
 
-currently_learning:
-  - SIEM Fundamentals
-  - Linux Internals
-  - Networking
-  - Python for Security
-  - Web Penetration Testing
-
-mindset:
-  "Learn -> Build -> Break -> Improve -> Repeat"
-```
-
----
-
-# 🧠 What I'm Interested In
-
-- 🐧 Linux Systems
-- 🔥 Bash Scripting & Automation
-- 🛡️ Blue Teaming
-- 📊 Log Analysis
-- 🌐 Networking
-- 🔍 Threat Detection
-- ⚡ Security Tools
-- 🧩 Problem Solving
-
----
-
-# ⚙️ Tech Stack
-
-<div align="center">
-
-### Operating Systems & Security
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Networking & Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Web Fundamentals
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudNazmy&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/MahmoudNazmy)
 
 </div>
 
 ---
 
-# 🚀 Current Goals
+```python
+class MahmoudNazmy:
 
-```text
-[✓] Learn Linux fundamentals
-[✓] Build Bash scripts
-[✓] Practice Log Analysis
-[✓] Learn Networking Basics
-[ ] Build SOC-related projects
-[ ] Learn SIEM tools
-[ ] Master Python for Automation
-[ ] Start Blue Team Labs
+    # ── Identity ──────────────────────────────────────────────
+    name        = "Mahmoud Nazmy"
+    location    = "Kafr El-Dawar, Alexandria — Egypt 🇪🇬"
+    experience  = "5 years freelance | 35+ projects shipped"
+
+    # ── Current Path ──────────────────────────────────────────
+    origin      = ["Vue.js", "TailwindCSS", "Python Automation", "WordPress"]
+    destination = ["SOC Analysis", "Blue Team", "Threat Detection"]
+    learning    = ["Wazuh", "Wireshark", "Log Analysis", "MITRE ATT&CK"]
+
+    # ── What I Build ──────────────────────────────────────────
+    web_stack   = ["Vue 3", "Vite", "TailwindCSS", "GSAP", "Three.js"]
+    automation  = ["Python", "n8n", "Make.com", "Bash scripting"]
+    security    = ["Linux", "Networking", "SIEM basics", "Incident Response"]
+
+    # ── Mission ───────────────────────────────────────────────
+    def current_focus(self):
+        return "Becoming a SOC Analyst — reading logs, hunting anomalies."
+
+    def why_security(self):
+        return "I spent years building systems. Now I want to protect them."
 ```
 
 ---
 
-# 🔥 Featured Projects
-
-## 🛡️ Failed Login Detector
-A Bash-based Linux log analysis tool that detects repeated failed login attempts from suspicious IPs.
-
-### Features
-- Authentication log analysis
-- Regex & AWK parsing
-- IP extraction
-- Attack frequency counting
-- Colored terminal output
-
----
-
-## 📂 File Organizer
-Simple Bash automation script that organizes files automatically based on file extensions.
-
-### Categories
-- Images
-- Videos
-- Documents
-- Web Files
-
----
-
-# 📊 GitHub Stats
+## `$ ls -la ./skills`
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&theme=tokyonight&hide_border=true)
+### ⬛ Web Development
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudNazmy&theme=tokyonight&hide_border=true)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNazmy&layout=compact&theme=tokyonight&hide_border=true)
+### ⬛ Automation & Scripting
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Make](https://img.shields.io/badge/Make.com-0d1117?style=for-the-badge&logo=make&logoColor=6D00CC)
+
+### 🟩 Security — In Progress
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-0d1117?style=for-the-badge&logo=wazuh&logoColor=00A9E0)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+## `$ cat ./roadmap.txt`
+
+```
+PHASE       SKILL                           STATUS
+─────────── ─────────────────────────────── ──────────────────
+[DONE]      Linux fundamentals              ██████████  100%
+[DONE]      Bash scripting (3 scripts)      ██████████  100%
+[DONE]      Python tools (6 tools built)    ██████████  100%
+[DONE]      Networking basics               ████████░░   80%
+[ACTIVE]    Networking — SOC depth          ███░░░░░░░   30%
+[NEXT]      Security fundamentals           ░░░░░░░░░░    0%
+[NEXT]      SIEM — Wazuh + Log Analysis     ░░░░░░░░░░    0%
+[NEXT]      Windows & Active Directory      ░░░░░░░░░░    0%
+[TARGET]    → Junior SOC Analyst            [ LOCKED ]
+```
+
+> *"I'm not starting from zero. I'm redirecting five years of building into defending."*
+
+---
+
+## `$ ls ./projects`
+
+```
+📁 soc-home-lab/          — VirtualBox lab: attack → detect → report
+📁 failed-login-detector/ — Python: parses auth.log, flags brute force IPs  
+📁 port-scanner/          — Python: socket-based scanner with threading
+📁 ip-info-tool/          — Python: geolocation + ISP lookup via API
+📁 wireshark-reports/     — Manual traffic analysis: DNS, TCP, HTTP
+📁 threat-intel-reports/  — Malware breakdowns mapped to MITRE ATT&CK
+```
+
+---
+
+## `$ ./connect.sh`
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://mahmoudnazmy.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mahmoudnazmy/)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/11mahmoud12)
+
+```
+Open for:
+  [✓] Freelance web & automation projects
+  [✓] Junior SOC / Blue Team roles
+  [✓] Collaborations & open source
+  [ ] Full-time senior roles  ← not yet, being honest
+```
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+## `$ tail -f ./github_stats.log`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNazmy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
+</div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/11mahmoud12)
+---
+
+## `$ cat ./snake_output`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -160,6 +166,10 @@ Simple Bash automation script that organizes files automatically based on file e
 
 <div align="center">
 
-### ⚡ Building skills one script at a time
+```
+[ SYS ] Profile loaded successfully.
+[ LOG ] Last updated: 2025 | Mode: Builder → Defender
+[ END ] Connection closed. Stay curious. Stay sharp. 🟩
+```
 
 </div>
