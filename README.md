@@ -1,148 +1,158 @@
 <div align="center">
 
-# Hi there, I'm Mahmoud Nazmy 👋
+# Mahmoud Nazmy
 
-### Full Stack Developer | UI/UX Enthusiast | Problem Solver
+### Linux • Cybersecurity • SOC Analyst Journey • Automation
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Building+digital+experiences;Clean+code+enthusiast;Always+learning+new+things;Turning+coffee+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Linux+Enthusiast+%F0%9F%90%A7;Learning+Cybersecurity+Step+by+Step+%F0%9F%94%A5;Building+Bash+Automation+Tools+%F0%9F%9B%A0%EF%B8%8F;SOC+Analyst+in+Progress+%F0%9F%9A%80;Logs+Regex+Pipelines+%26+Linux+%F0%9F%91%80" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudNazmy&color=6366f1&style=flat-square)](https://github.com/MahmoudNazmy)
-
-<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
+<img src="https://komarev.com/ghpvc/?username=MahmoudNazmy&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🎯 About Me
-```typescript
-typescript
-class Developer {
-  name: string = "Mahmoud Nazmy";
-  role: string = "Senior Full Stack Developer";
-  
-  languages: string[] = ["JavaScript", "TypeScript", "Python"];
-  currentlyLearning: string[] = ["Next.js 14", "System Design", "AWS"];
-  
-  workingOn(): string {
-    return "Building scalable applications that make a difference 🚀";
-  }
-  
-  lifePhilosophy(): string {
-    return "Code is poetry, bugs are just plot twists 🎭";
-  }
-  
-  funFact(): string {
-    return "I speak fluent JavaScript and broken English ☕";
-  }
-}
+# 👨‍💻 About Me
+
+```bash
+whoami
 ```
+
+```yaml
+name: Mahmoud Nazmy
+role: Cybersecurity Learner
+focus:
+  - Linux
+  - Bash Scripting
+  - SOC Analysis
+  - Log Analysis
+  - Automation
+
+currently_learning:
+  - SIEM Fundamentals
+  - Linux Internals
+  - Networking
+  - Python for Security
+  - Web Penetration Testing
+
+mindset:
+  "Learn -> Build -> Break -> Improve -> Repeat"
+```
+
+---
+
+# 🧠 What I'm Interested In
+
+- 🐧 Linux Systems
+- 🔥 Bash Scripting & Automation
+- 🛡️ Blue Teaming
+- 📊 Log Analysis
+- 🌐 Networking
+- 🔍 Threat Detection
+- ⚡ Security Tools
+- 🧩 Problem Solving
+
+---
+
+# ⚙️ Tech Stack
+
 <div align="center">
 
-**🔭 Building** scalable web applications | **🌱 Learning** cloud architecture & system design  
-**💡 Open to** exciting collaborations | **⚡ Superpower:** Debugging with `console.log()` like a pro
+### Operating Systems & Security
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+### Networking & Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### Frontend Development
+### Web Fundamentals
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 💼 What I'm Up To
-```javascript
-const myLife = () => {
-  while (alive) {
-    eat();
-    sleep();
-    code();
-    debug(); // This takes 80% of the time 😅
-    commit();
-    repeat();
-  }
-}
+# 🚀 Current Goals
 
-// TODO: Add "exercise()" to the loop... someday 🏃‍♂️
+```text
+[✓] Learn Linux fundamentals
+[✓] Build Bash scripts
+[✓] Practice Log Analysis
+[✓] Learn Networking Basics
+[ ] Build SOC-related projects
+[ ] Learn SIEM tools
+[ ] Master Python for Automation
+[ ] Start Blue Team Labs
 ```
 
+---
 
+# 🔥 Featured Projects
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🛡️ Failed Login Detector
+A Bash-based Linux log analysis tool that detects repeated failed login attempts from suspicious IPs.
 
-## 🎯 2025 Goals & Achievements
+### Features
+- Authentication log analysis
+- Regex & AWK parsing
+- IP extraction
+- Attack frequency counting
+- Colored terminal output
+
+---
+
+## 📂 File Organizer
+Simple Bash automation script that organizes files automatically based on file extensions.
+
+### Categories
+- Images
+- Videos
+- Documents
+- Web Files
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-| 🚀 Mission | 📊 Status | 💪 Progress |
-|-----------|----------|------------|
-| Build 10 production-ready apps | 🎯 Active | ████████░░ 80% |
-| Contribute to 20+ open source projects | 🔥 In Progress | ██████░░░░ 60% |
-| Master System Design & Architecture | 📚 Learning | ████░░░░░░ 40% |
-| Write 50 technical blog posts | ✍️ Writing | ███░░░░░░░ 30% |
-| Mentor 100+ developers | 🤝 Ongoing | ███████░░░ 70% |
-| Learn AWS & Cloud Architecture | ☁️ Studying | █████░░░░░ 50% |
+![](https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudNazmy&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNazmy&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-
-
-## 💬 Let's Connect & Build Something Amazing
+# 🐍 Contribution Graph
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudnazmy/)
-[![Facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/11mahmoud12)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white)](https://mahmoudnazmy.github.io/Portfolio/)
 
-
-**💼 Open for freelance projects | 🤝 Available for collaborations | ☕ Always up for tech discussions**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/11mahmoud12)
 
 </div>
 
@@ -150,11 +160,6 @@ const myLife = () => {
 
 <div align="center">
 
-### 🎯 Hit me up if you want to:
-**💻 Collaborate on projects** | **🚀 Build something cool** | **☕ Talk about tech over coffee** | **🎮 Discuss the latest tech trends**
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### ⚡ Building skills one script at a time
 
 </div>
