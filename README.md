@@ -21,7 +21,7 @@
 
 ```yaml
 name       : Mahmoud Nazmy
-location   : Kafr El-Dawar, Alexandria — Egypt
+location   :  Alexandria — Egypt
 experience : 5 years freelance  |  35+ projects shipped
 
 journey:
