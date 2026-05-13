@@ -1,116 +1,147 @@
-<!-- MAHMOUD NAZMY — GitHub Profile README -->
+<!-- ================================================================
+     MAHMOUD NAZMY — GitHub Profile README
+     Strategy: Work WITH GitHub rendering, not against it.
+     Use proven external services for dynamic content.
+================================================================ -->
 
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f3a,100:0d1117&height=180&section=header&text=Mahmoud%20Nazmy&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20Automation%20%7C%20SOC%20Analyst%20in%20Training&descAlignY=62&descSize=15&descColor=8b949e)
+<!-- HEADER BANNER — dark bg baked into the SVG image itself -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,50:001a33,100:000d1a&height=200&section=header&text=Mahmoud%20Nazmy&fontSize=56&fontColor=00e5ff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Automation%20Engineer%20%7C%20SOC%20Analyst%20in%20Training&descSize=16&descColor=607d8b&descAlignY=60&animation=twinkling"/>
 
-</div>
+<!-- ANIMATED TERMINAL LINE -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+Builder+becoming+a+Defender;%24+locate+--skill+%22soc-analyst%22+%2F+2026;%24+cat+journey.log+%7C+grep+%22in+progress%22;%3E+Wazuh+%7C+Wireshark+%7C+MITRE+ATT%26CK+%7C+Logs" />
+</a>
 
-<div align="center">
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%24+whoami+—+Builder+turning+into+Defender;5+years+%7C+35%2B+projects+%7C+Alexandria%2C+Egypt+🇪🇬;Learning%3A+Wazuh+%7C+Wireshark+%7C+MITRE+ATT%26CK)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![](https://img.shields.io/badge/Status-Transitioning-ff4444?style=flat-square&labelColor=161b22)&nbsp;
-![](https://img.shields.io/badge/Target-SOC%20Analyst-00FF41?style=flat-square&labelColor=161b22)&nbsp;
-![](https://img.shields.io/badge/Location-Alexandria%20EG-00BFFF?style=flat-square&labelColor=161b22)&nbsp;
-![](https://img.shields.io/badge/Open%20To-Freelance%20%26%20SOC%20Roles-FFD700?style=flat-square&labelColor=161b22)
+<!-- STATUS ROW -->
+<img src="https://img.shields.io/badge/🔴_Status-Transitioning-ff1744?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🟡_Mode-Active_Learning-FFD600?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🟢_Target-SOC_Analyst-00e676?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📍_Location-Alexandria,_Egypt-00e5ff?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-## 👤 About
+<table width="100%"><tr><td valign="top" width="60%">
 
-```python
-mahmoud = {
-    "name"       : "Mahmoud Nazmy",
-    "location"   : "Kafr El-Dawar, Alexandria — Egypt 🇪🇬",
-    "experience" : "5 years freelance | 35+ projects shipped",
-    "journey"    : "Full-Stack Dev  →  Automation  →  [ SOC Analyst ]",
-    "learning"   : ["Wazuh", "Wireshark", "Log Analysis", "MITRE ATT&CK"],
-    "open_to"    : ["Freelance web & automation", "Junior SOC / Blue Team roles"],
-    "honest"     : "Still learning — no fake senior titles here."
-}
+## ⚡ Identity
+
+```yaml
+name       : Mahmoud Nazmy
+location   : Kafr El-Dawar, Alexandria — EG 🇪🇬
+experience : 5 years freelance | 35+ projects
+
+journey:
+  - Full-Stack Developer  ✅
+  - Automation Engineer   ✅
+  - SOC Analyst           [ loading... ]
+
+currently_learning:
+  - Wazuh SIEM
+  - Wireshark & tcpdump
+  - Log Analysis
+  - MITRE ATT&CK Framework
+
+open_to:
+  - Freelance web & automation
+  - Junior SOC / Blue Team roles
+
+philosophy: |
+  Built systems for 5 years.
+  Now learning to defend them.
 ```
 
----
+</td><td valign="top" width="40%" align="center">
 
-## 🛠️ Tech Stack
+## 📊 This Week
 
-**Web Development**
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e676&text_color=90a4ae&ring_color=00e5ff&include_all_commits=true"/>
 
-![Vue.js](https://img.shields.io/badge/Vue_3-20232a?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-20232a?style=flat-square&logo=vite&logoColor=646CFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-20232a?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![GSAP](https://img.shields.io/badge/GSAP-20232a?style=flat-square&logo=greensock&logoColor=88CE02)
-![Three.js](https://img.shields.io/badge/Three.js-20232a?style=flat-square&logo=threedotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-20232a?style=flat-square&logo=wordpress&logoColor=21759B)
+<img src="https://streak-stats.demolab.com?user=MahmoudNazmy&hide_border=true&background=0D1117&ring=00E5FF&fire=ff1744&currStreakLabel=FFD600&sideLabels=90a4ae&dates=546e7a&stroke=1a237e"/>
 
-**Automation & Scripting**
-
-![Python](https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-20232a?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![n8n](https://img.shields.io/badge/n8n-20232a?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Make.com](https://img.shields.io/badge/Make.com-20232a?style=flat-square&logo=make&logoColor=6D00CC)
-
-**Security — In Progress**
-
-![Linux](https://img.shields.io/badge/Linux-20232a?style=flat-square&logo=linux&logoColor=FCC624)
-![Kali](https://img.shields.io/badge/Kali_Linux-20232a?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Wireshark](https://img.shields.io/badge/Wireshark-20232a?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-20232a?style=flat-square&logoColor=00A9E0)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-20232a?style=flat-square&logo=virtualbox&logoColor=183A61)
+</td></tr></table>
 
 ---
 
-## 🗺️ SOC Roadmap — 2026
+## 🛠️ Arsenal
 
-| Status | Milestone |
-|--------|-----------|
-| ✅ Done | Linux fundamentals & system administration |
-| ✅ Done | Bash scripting — 3 automation scripts |
-| ✅ Done | Python scripting — 6 security tools |
-| ✅ Done | Networking basics (TCP/IP, OSI, DNS, HTTP) |
-| 🔄 Active | Networking deep dive — Wireshark, tcpdump, nmap |
-| 🔄 Active | Security fundamentals — MITRE ATT&CK, Kill Chain |
-| ⏳ Next | SIEM home lab — Wazuh + VirtualBox |
-| ⏳ Next | Log analysis — Windows Events, Linux, Web logs |
-| ⏳ Next | Windows & Active Directory |
-| 🎯 Target | **Junior SOC Analyst — Q4 2026** |
+<div align="center">
+
+**— Web Development —**
+
+<img src="https://skillicons.dev/icons?i=vue,vite,tailwind,js,ts,gsap,threejs,wordpress&theme=dark"/>
+
+**— Automation & Scripting —**
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux&theme=dark"/>
+&nbsp;<img src="https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0d1117"/>
+&nbsp;<img src="https://img.shields.io/badge/Make.com-0d1117?style=flat-square&logo=make&logoColor=9c27b0&labelColor=0d1117"/>
+
+**— Security (In Progress 🔴) —**
+
+<img src="https://skillicons.dev/icons?i=kali,vim&theme=dark"/>
+&nbsp;<img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7"/>
+&nbsp;<img src="https://img.shields.io/badge/Wazuh_SIEM-0d1117?style=flat-square&logoColor=00A9E0"/>
+&nbsp;<img src="https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&logo=virtualbox&logoColor=183A61"/>
+&nbsp;<img src="https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&logoColor=ff1744"/>
+
+</div>
+
+---
+
+## 🗺️ SOC Roadmap 2026
+
+<div align="center">
+
+| | Milestone | Status |
+|--|-----------|--------|
+| 🟢 | Linux fundamentals & system admin | `DONE` |
+| 🟢 | Bash scripting — 3 scripts built | `DONE` |
+| 🟢 | Python scripting — 6 tools built | `DONE` |
+| 🟢 | Networking basics — TCP/IP, OSI, DNS | `DONE` |
+| 🟡 | Networking deep dive — Wireshark, nmap | `IN PROGRESS` |
+| 🟡 | Security fundamentals — MITRE, Kill Chain | `IN PROGRESS` |
+| 🔴 | SIEM home lab — Wazuh + VirtualBox | `NEXT` |
+| 🔴 | Log analysis — Windows, Linux, Web | `NEXT` |
+| 🔴 | Windows & Active Directory | `NEXT` |
+| 🎯 | **Junior SOC Analyst** | `TARGET — Q4 2026` |
+
+</div>
 
 ---
 
 ## 📁 Projects
 
-| Repo | Description | Stack |
-|------|-------------|-------|
-| [bash-Failed-Login-Detector](https://github.com/mahmoudnazmy/bash-Failed-Login-Detector) | Parses auth.log, detects brute-force IPs | Bash |
-| [bash-file-organizer](https://github.com/mahmoudnazmy/bash-file-organizer) | Auto-organizes files by type & date | Bash |
-| [Portfolio](https://mahmoudnazmy.github.io/) | Personal site — Vue 3 + GSAP + Three.js | Vue, GSAP |
-| [Wahy-Tilawah](https://github.com/mahmoudnazmy/Wahy-Tilawah) | Quran recitation tracker app | HTML/JS |
-| `soc-home-lab` *(coming)* | VirtualBox: attack → detect → report | Wazuh |
-| `threat-intel-reports` *(coming)* | Malware mapped to MITRE ATT&CK | Markdown |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudNazmy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=8b949e&ring_color=00FF41" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNazmy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=8b949e" height="155"/>
+<a href="https://github.com/mahmoudnazmy/bash-Failed-Login-Detector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=bash-Failed-Login-Detector&bg_color=0d1117&title_color=00e5ff&icon_color=00e676&text_color=90a4ae&hide_border=true"/>
+</a>
+<a href="https://github.com/mahmoudnazmy/bash-file-organizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=bash-file-organizer&bg_color=0d1117&title_color=00e5ff&icon_color=00e676&text_color=90a4ae&hide_border=true"/>
+</a>
+<a href="https://github.com/mahmoudnazmy/Wahy-Tilawah">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=Wahy-Tilawah&bg_color=0d1117&title_color=00e5ff&icon_color=00e676&text_color=90a4ae&hide_border=true"/>
+</a>
+<a href="https://github.com/mahmoudnazmy/Task-management-dist">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=Task-management-dist&bg_color=0d1117&title_color=00e5ff&icon_color=00e676&text_color=90a4ae&hide_border=true"/>
+</a>
 
 </div>
 
+---
+
+## 📈 Activity
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudNazmy&hide_border=true&background=0d1117&ring=00FF41&fire=ff4444&currStreakLabel=FFD700&sideLabels=8b949e&dates=8b949e&stroke=21262d)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNazmy&bg_color=0d1117&color=00e5ff&line=00e676&point=ff1744&area=true&area_color=00e5ff&hide_border=true&radius=8"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNazmy&layout=donut-vertical&bg_color=0d1117&title_color=00e5ff&text_color=90a4ae&hide_border=true&langs_count=6"/>
 
 </div>
 
@@ -120,9 +151,19 @@ mahmoud = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41)](https://mahmoudnazmy.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mahmoudnazmy/)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/11mahmoud12)
+<a href="https://mahmoudnazmy.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00e5ff"/>
+</a>
+<a href="https://www.linkedin.com/in/mahmoudnazmy/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://www.facebook.com/11mahmoud12">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MahmoudNazmy&style=flat-square&color=00e5ff&label=PROFILE+VIEWS&labelColor=0d1117"/>
 
 </div>
 
@@ -130,12 +171,14 @@ mahmoud = {
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
+---
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a1f3a&height=100&section=footer&text=Stay+curious.+Stay+sharp.&fontSize=14&fontColor=8b949e&fontAlignY=65)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,100:001a33&height=120&section=footer&text=Stay+curious.+Stay+sharp.&fontSize=16&fontColor=607d8b&fontAlignY=65"/>
 
 </div>
