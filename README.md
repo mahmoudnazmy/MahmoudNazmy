@@ -25,9 +25,9 @@ I'm a **Front-End Engineer** with 5+ years of experience building production-gra
 I build **security tooling** alongside my transition journey, because the best way to understand threats is to understand systems deeply.
 
 **Currently:**
-- Training toward **Junior SOC Analyst** role
-- Building forensics tools for email & threat investigation
-- Learning Wazuh, Wireshark, MITRE ATT&CK, OSINT
+- Actively pursuing **Junior SOC Analyst** role
+- Building forensics tooling for email & threat investigation
+- Deep-diving into **OSINT**, packet analysis & incident response
 
 **Open to:**
 - Freelance web & automation contracts
@@ -64,8 +64,8 @@ I build **security tooling** alongside my transition journey, because the best w
 | Domain | Stack | Status |
 |:---|:---|:---:|
 | Front-End Engineering | Vue 3, TypeScript, Tailwind, Vite | `Active` |
-| Security Operations | Wazuh, Wireshark, SIEM, Log Analysis | `Learning` |
-| Threat Detection | MITRE ATT&CK, Kill Chain, IOC Analysis | `Learning` |
+| Security Operations | Wazuh, Wireshark, SIEM, Log Analysis | `Active` |
+| Threat Detection | MITRE ATT&CK, Kill Chain, IOC Analysis | `Active` |
 | Digital Forensics | Email Forensics, OSINT, Packet Analysis | `Building` |
 | Scripting & Automation | Python, Bash, Linux Administration | `Active` |
 
@@ -87,13 +87,6 @@ I build **security tooling** alongside my transition journey, because the best w
 
 ### Notable Projects
 
-<div align="center">
-
-[![MailScope](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=MailScope&theme=tokyonight&hide_border=true)](https://github.com/mahmoudnazmy/MailScope)
-&nbsp;
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/mahmoudnazmy/portfolio)
-
-</div>
 
 | Project | Description | Stack |
 |:---|:---|:---|
@@ -117,8 +110,8 @@ I build **security tooling** alongside my transition journey, because the best w
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:mahmoudnazmy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://tryhackme.com/p/mahmoudnazmy">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
 </div>
