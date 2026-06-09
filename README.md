@@ -73,30 +73,12 @@ I build **security tooling** alongside my transition journey, because the best w
 
 ---
 
-### Stats & Activity
-
 <div align="center">
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudnazmy&theme=tokyonight&hide_border=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnazmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
----
-
-### Notable Projects
-
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **[MailScope](https://mahmoudnazmy.github.io/MailScope/)** | Email forensics platform — SMTP analysis, IOC extraction, header investigation | Vue 3, TypeScript |
-| **bash-Failed-Login-Detector** | Parses `auth.log`, detects brute-force attempts in real-time | Bash |
-| **bash-file-organizer** | Auto-organizes files by type & date with logging | Bash |
-| **soc-home-lab** | Wazuh + VirtualBox lab: simulate attacks, detect in SIEM | *(in progress)* |
-| **threat-intel-reports** | Malware samples analyzed and mapped to MITRE ATT&CK | *(coming)* |
-
----
 
 ### Connect
 
