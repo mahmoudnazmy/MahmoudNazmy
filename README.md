@@ -1,110 +1,101 @@
 <div align="center">
-
-# 🔎 MailScope Enterprise
-
-**Advanced Email Investigation & Forensics Platform** <br/>
-*Engineered for SOC Analysts & DFIR Teams*
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Launch_Platform-Visit_Now-4f46e5?style=for-the-badge)](https://mahmoudnazmy.github.io/MailScope/)
-[![Framework](https://img.shields.io/badge/Vue_3-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![Language](https://img.shields.io/badge/TypeScript_5-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![License](https://img.shields.io/badge/License-MIT-0ea5e9?style=for-the-badge)](LICENSE)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=MAHMOUD+NAZMY;SOC+Analyst+in+Training;Full-Stack+Developer" alt="Mahmoud Nazmy" />
 </div>
 
-<br/>
+```yaml
+mahmoud@kfr-el-dawar:~$ cat identity.yaml
 
-## ▌ Platform Overview
+// system identity
+name            Mahmoud Nazmy
+location        Kafr El-Dawar, Alexandria - Egypt
+experience      5 years freelance | 25+ projects shipped
+journey         Dev -> Automation -> [ SOC Analyst ]
+status          TRANSITIONING          mode: LEARNING
 
-**MailScope** is a client-side, open-source email investigation platform designed to assist **Security Operations Center (SOC)** analysts, **Digital Forensics and Incident Response (DFIR)** practitioners, and cybersecurity researchers in conducting deep, structured email investigations — directly in the browser.
+open_to         Freelance web/automation | Junior SOC / Blue Team
+```
 
-> [![Privacy First](https://img.shields.io/badge/Privacy_First-Zero_Backend_&_No_Data_Transmission-10b981?style=flat-square)](#)  
-> All processing happens locally on your device. No email content is ever sent to a server.
+```bash
+mahmoud@kfr-el-dawar:~$ ls skills/web/
+// WEB DEVELOPMENT
+* Vue 3         * Vite         * Tailwind       * JavaScript     * GSAP         * Three.js       * WordPress
 
-<br/>
+mahmoud@kfr-el-dawar:~$ ls skills/automation/
+// AUTOMATION & SCRIPTING
+* Python        * Bash         * Linux          * n8n            * Make.com
+```
 
-## ▌ Core Intelligence Modules
+```diff
+mahmoud@kfr-el-dawar:~$ ls skills/security/                     # IN PROGRESS
+// SECURITY - LEARNING
+- Kali Linux    - Wireshark    - Wazuh SIEM     - VirtualBox     - MITRE ATTACK
+```
 
-### 1. Header Analysis
-Deep-dive into raw internet message headers with full forensic reconstruction.
-- **SMTP Relay Chain** mapping and timing analysis
-- **SPF, DKIM, DMARC, ARC** cryptographic verification
-- **Header spoofing** and path mismatch detection
-- **Automated IOC extraction** (IPs, Domains, Addresses)
+```text
+// PROFICIENCY
+Vue 3      [████████████████████████████████████████] 90%
+Tailwind   [████████████████████████████████████████] 90%
+Python     [██████████████████████████████      ] 70%
+Bash       [█████████████████████████           ] 60%
+Linux      [██████████████████████████████      ] 70%
+Networking [████████████████████                ] 50%
+Wireshark  [████████                            ] 20%
+Wazuh SIEM [████████                            ] 20%
+```
 
-### 2. Body Analysis
-Forensic inspection of email body content for malicious intent signals.
-- **Malicious URL** scanning and redirect chain tracking
-- **Brand impersonation** and phishing pattern detection
-- **HTML payload deobfuscation** (Base64, hex encoding)
-- **Social engineering** language and urgency analysis
+```diff
+mahmoud@kfr-el-dawar:~$ tail -f roadmap.log
 
-### 3. Full Email Forensics
-Unified correlated analysis combining header and body forensics in a single report.
-- **.EML / .MSG** parsing and processing
-- **Unified threat scoring** (Critical → Low)
-- **MIME tree hierarchy** viewer for multipart messages
-- **High-fidelity reporting** for incident documentation
+@@ SOC ANALYST FAST TRACK - 2026 @@
+@@ PHASE 1 - FOUNDATION @@
++ [v] Linux fundamentals & system administration
++ [v] Bash scripting - 3 scripts built
++ [v] Python scripting - 5 tools built
++ [v] Networking basics - TCP/IP, OSI, DNS
 
-<br/>
+@@ PHASE 2 - ACTIVE @@
+! [>] Networking deep dive - Wireshark, tcpdump, nmap
+! [>] Security fundamentals - MITRE ATTACK, Kill Chain
 
-## ▌ Investigation Workflow
+@@ PHASE 3 - QUEUED @@
+- [ ] SIEM home lab - Wazuh + VirtualBox
+- [ ] Log analysis - Windows, Linux, Web
+- [ ] Windows & Active Directory
+- [ ] Incident Response & alerting
+----------------------- TARGET _ Junior SOC Analyst [ Q4 2026 ]
+```
 
-<div align="center">
+```yaml
+mahmoud@kfr-el-dawar:~$ ls ./projects/
 
-[![Select Module](https://img.shields.io/badge/1.-Select_Module-6366f1?style=for-the-badge)](#) ➔
-[![Input Data](https://img.shields.io/badge/2.-Input_Data-8b5cf6?style=for-the-badge)](#) ➔
-[![Analyze Results](https://img.shields.io/badge/3.-Analyze_Results-d946ef?style=for-the-badge)](#) ➔
-[![Pivot IOCs](https://img.shields.io/badge/4.-Pivot_IOCs-ec4899?style=for-the-badge)](#)
+REPO                            DESCRIPTION                                  STACK
+bash-Failed-Login-Detector      Parses auth.log, detects brute-force IPs     Bash
+bash-file-organizer             Auto-organizes files by type & date          Bash
+portfolio                       Personal site - dark cinematic, GSAP         Vue 3
+Wahy-Tilawah                    Quran recitation tracker app                 HTML/JS
+MailScope                       Email Investigation & Forensics Platform     Vue 3
+soc-home-lab                    VirtualBox: Kali attacks -> Wazuh detects    coming
+threat-intel-reports            Malware analysis mapped to MITRE ATTACK      coming
+```
 
-</div>
+```yaml
+mahmoud@kfr-el-dawar:~$ ./connect.sh
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mahmoudnazmy.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-n/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudnazmy)
+```
 
-## ▌ Architecture & Features
+```diff
+// connection established - awaiting your message
++ [v] Freelance web & automation projects
++ [v] Junior SOC / Blue Team roles
+! [x] Fake senior titles - not interested
+```
 
-- **Fully Client-Side:** No backend servers, no APIs, complete data privacy.
-- **Multi-format Support:** Accepts `.EML`, `.MSG`, `.TXT`, and raw paste input.
-- **Real-time Analytics:** Anonymous usage telemetry via Firebase (no PII collected).
-- **Dark-aware UI:** Clean, professional interface optimized for long analyst shifts.
+```bash
+mahmoud@kfr-el-dawar:~$ Stay curious. Stay sharp. Stay dangerous. █
 
-<br/>
-
-## ▌ Technology Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,ts,tailwind,vite,firebase,html,css" alt="Technology Stack" />
-  </a>
-</div>
-
-<br/>
-
-## ▌ Security & Privacy
-
-We take data security seriously. MailScope is built on a **Strict Privacy Guarantee**:
-
-1. **Local Execution:** Your emails never leave your browser. All parsing algorithms run directly on your machine.
-2. **No Data Storage:** We do not log, store, or transmit your forensic files or investigation results.
-3. **Open Source:** The entire codebase is public and fully auditable by the security community.
-
-<br/>
-
-## ▌ About The Creator
-
-**Mahmoud-Na**  
-*Cybersecurity Enthusiast | SOC Operations | Threat Detection*
-
-[![GitHub](https://img.shields.io/badge/GitHub-mahmoudnazmy-181717?style=flat-square&logo=github)](https://github.com/mahmoudnazmy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud_Na-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahmoud-n/)
-
-<br/>
-
----
-
-<div align="center">
-  <i>Built for analysts, by an analyst.</i> <br/>
-  <b>© 2025 Mahmoud-Na. All rights reserved.</b>
-</div>
+| SYNC | Profile loaded. Builder -> Defender mode: ON
+| END  | Connection closed.
+```
