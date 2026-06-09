@@ -16,24 +16,29 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=mahmoudnazmy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-
-### Who I Am
-
-I'm a **Front-End Engineer** with 5+ years of experience building production-grade web applications — currently making a deliberate shift into **Cybersecurity & Blue Team Operations**.
-
-I build **security tooling** alongside my transition journey, because the best way to understand threats is to understand systems deeply.
-
-**Currently:**
-- Actively pursuing **Junior SOC Analyst** role
-- Building forensics tooling for email & threat investigation
-- Deep-diving into **OSINT**, packet analysis & incident response
-
-**Open to:**
-- Freelance web & automation contracts
-- Junior SOC / Blue Team / DFIR positions
-
-<br clear="right"/>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="55%" valign="top" style="border: none;">
+      <h3>Who I Am</h3>
+      <p>I'm a <b>Front-End Engineer</b> with 5+ years of experience building production-grade web applications — currently making a deliberate shift into <b>Cybersecurity & Blue Team Operations</b>.</p>
+      <p>I build <b>security tooling</b> alongside my transition journey, because the best way to understand threats is to understand systems deeply.</p>
+      <b>Currently:</b>
+      <ul>
+        <li>Actively pursuing <b>Junior SOC Analyst</b> role</li>
+        <li>Building forensics tooling for email & threat investigation</li>
+        <li>Deep-diving into <b>OSINT</b>, packet analysis & incident response</li>
+      </ul>
+      <b>Open to:</b>
+      <ul>
+        <li>Freelance web & automation contracts</li>
+        <li>Junior SOC / Blue Team / DFIR positions</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center" style="border: none; padding-top: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mahmoudnazmy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    </td>
+  </tr>
+</table>
 
 ---
 
