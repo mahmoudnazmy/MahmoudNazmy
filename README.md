@@ -16,8 +16,8 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal-square.svg" width="24" style="vertical-align: bottom;"> 
+<h3>
+  <img src="https://img.icons8.com/fluency/48/laptop-coding.png" width="28" style="vertical-align: bottom;" /> 
   Who I Am
 </h3>
 
@@ -27,18 +27,20 @@ I build **security tooling** alongside my transition journey, because the best w
 
 <br/>
 
-<table width="100%" border="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <b><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/target.svg" width="18" style="vertical-align: bottom;"> Currently</b>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><img src="https://img.icons8.com/fluency/48/clock.png" width="20" style="vertical-align: bottom;" /> Currently</b>
+      <br/><br/>
       <ul>
         <li>Actively pursuing <b>Junior SOC Analyst</b> role</li>
         <li>Building forensics tooling for email & threat investigation</li>
         <li>Deep-diving into <b>OSINT</b>, packet analysis & incident response</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="border: none;">
-      <b><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/briefcase.svg" width="18" style="vertical-align: bottom;"> Open To</b>
+    <td width="50%" valign="top">
+      <b><img src="https://img.icons8.com/fluency/48/portfolio.png" width="20" style="vertical-align: bottom;" /> Open To</b>
+      <br/><br/>
       <ul>
         <li>Freelance web & automation contracts</li>
         <li>Junior SOC / Blue Team / DFIR positions</li>
@@ -49,8 +51,8 @@ I build **security tooling** alongside my transition journey, because the best w
 
 ---
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/wrench.svg" width="24" style="vertical-align: bottom;"> 
+<h3>
+  <img src="https://img.icons8.com/fluency/48/code.png" width="28" style="vertical-align: bottom;" /> 
   Tech Arsenal
 </h3>
 
@@ -72,8 +74,8 @@ I build **security tooling** alongside my transition journey, because the best w
 
 ---
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/crosshair.svg" width="24" style="vertical-align: bottom;"> 
+<h3>
+  <img src="https://img.icons8.com/fluency/48/radar.png" width="28" style="vertical-align: bottom;" /> 
   Focus Areas
 </h3>
 
@@ -127,9 +129,6 @@ I build **security tooling** alongside my transition journey, because the best w
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://tryhackme.com/p/mahmoudnazmy">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
 
 </div>
 
