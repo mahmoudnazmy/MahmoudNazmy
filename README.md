@@ -16,33 +16,43 @@
 
 ---
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>Who I Am</h3>
-      <p>I'm a <b>Front-End Engineer</b> with 5+ years of experience building production-grade web applications — currently making a deliberate shift into <b>Cybersecurity & Blue Team Operations</b>.</p>
-      <p>I build <b>security tooling</b> alongside my transition journey, because the best way to understand threats is to understand systems deeply.</p>
-      <b>Currently:</b>
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal-square.svg" width="24" style="vertical-align: bottom;"> 
+  Who I Am
+</h3>
+
+I'm a **Front-End Engineer** with 5+ years of experience building production-grade web applications — currently making a deliberate shift into **Cybersecurity & Blue Team Operations**.
+
+I build **security tooling** alongside my transition journey, because the best way to understand threats is to understand systems deeply.
+
+<br/>
+
+<table width="100%" border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <b><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/target.svg" width="18" style="vertical-align: bottom;"> Currently</b>
       <ul>
         <li>Actively pursuing <b>Junior SOC Analyst</b> role</li>
         <li>Building forensics tooling for email & threat investigation</li>
         <li>Deep-diving into <b>OSINT</b>, packet analysis & incident response</li>
       </ul>
-      <b>Open to:</b>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <b><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/briefcase.svg" width="18" style="vertical-align: bottom;"> Open To</b>
       <ul>
         <li>Freelance web & automation contracts</li>
         <li>Junior SOC / Blue Team / DFIR positions</li>
       </ul>
-    </td>
-    <td width="45%" valign="top" align="center" style="border: none; padding-top: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mahmoudnazmy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
     </td>
   </tr>
 </table>
 
 ---
 
-### Tech Arsenal
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/wrench.svg" width="24" style="vertical-align: bottom;"> 
+  Tech Arsenal
+</h3>
 
 <div align="center">
 
@@ -62,27 +72,47 @@
 
 ---
 
-### Focus Areas
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/crosshair.svg" width="24" style="vertical-align: bottom;"> 
+  Focus Areas
+</h3>
 
-<div align="center">
+<br/>
 
-| Domain | Stack | Status |
-|:---|:---|:---:|
-| Front-End Engineering | Vue 3, TypeScript, Tailwind, Vite | `Active` |
-| Security Operations | Wazuh, Wireshark, SIEM, Log Analysis | `Active` |
-| Threat Detection | MITRE ATT&CK, Kill Chain, IOC Analysis | `Active` |
-| Digital Forensics | Email Forensics, OSINT, Packet Analysis | `Building` |
-| Scripting & Automation | Python, Bash, Linux Administration | `Active` |
-
-</div>
+<table width="100%" align="center">
+  <tr>
+    <th align="left">Domain</th>
+    <th align="left">Stack / Tools</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td><b>💻 Front-End Engineering</b></td>
+    <td>Vue 3, TypeScript, Tailwind, Vite</td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-10b981?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><b>🛡️ Security Operations</b></td>
+    <td>Wazuh, Wireshark, SIEM, Log Analysis</td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-10b981?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><b>🎯 Threat Detection</b></td>
+    <td>MITRE ATT&CK, Kill Chain, IOC Analysis</td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-10b981?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><b>🔎 Digital Forensics</b></td>
+    <td>Email Forensics, OSINT, Packet Analysis</td>
+    <td align="center"><img src="https://img.shields.io/badge/Building-6366f1?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Scripting & Automation</b></td>
+    <td>Python, Bash, Linux Administration</td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-10b981?style=flat-square" /></td>
+  </tr>
+</table>
 
 ---
-
-<div align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudnazmy&theme=tokyonight&hide_border=true" />
-
-</div>
 
 
 ### Connect
