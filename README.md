@@ -1,129 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:FF0040,100:00FF41&height=200&section=header&text=MAHMOUD%20NAZMY&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Dev%20%7C%20Automation%20%7C%20SOC%20Analyst%20In%20Training&descSize=16&descAlignY=62&descColor=aaaaaa" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Mahmoud%20Nazmy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Front-End%20Engineer%20%E2%86%92%20SOC%20Analyst%20%7C%20Cybersecurity%20Practitioner&descSize=17&descAlignY=65&descColor=94a3b8" />
 
 </div>
 
-```diff
-mahmoud@kfr-el-dawar:~$ cat identity.yaml
-
-! // system identity
-  name            Mahmoud Nazmy
-  location        Kafr El-Dawar, Alexandria - Egypt
-  experience      5 years freelance | 25+ projects shipped
-  journey         Front-End Dev -> Automation -> [ SOC Analyst ]
-  status          TRANSITIONING          mode: LEARNING
-
-  open_to         Freelance web/automation | Junior SOC / Blue Team / DFIR
-```
-
-```diff
-mahmoud@kfr-el-dawar:~$ ls skills/web/
-! // WEB DEVELOPMENT  — 5 years XP
-+ * Vue 3      + * Vite       + * Tailwind    + * JavaScript  + * TypeScript
-+ * GSAP       + * Three.js   + * WordPress   + * REST APIs   + * Figma
-
-mahmoud@kfr-el-dawar:~$ ls skills/automation/
-! // AUTOMATION & SCRIPTING
-+ * Python     + * Bash       + * Linux       + * n8n         + * Make.com
-+ * Git        + * Docker     + * Cron Jobs   + * Web Scraping
-
-mahmoud@kfr-el-dawar:~$ ls skills/security/                # IN PROGRESS
-! // CYBERSECURITY — ACTIVELY LEARNING
-- * Kali Linux    - * Wireshark   - * Wazuh SIEM  - * VirtualBox
-- * MITRE ATT&CK  - * Nmap        - * Burp Suite  - * tcpdump
-- * Threat Intel  - * Log Analysis - * Kill Chain  - * OSINT
-```
-
-```diff
-mahmoud@kfr-el-dawar:~$ cat proficiency.txt
-! // PROFICIENCY
-
-+ Vue 3       [████████████████████████████████████████] 90%
-+ Tailwind    [████████████████████████████████████████] 90%
-+ TypeScript  [████████████████████████████████        ] 80%
-+ JavaScript  [████████████████████████████████████    ] 85%
-+ Python      [██████████████████████████              ] 65%
-+ Bash        [█████████████████████                   ] 55%
-+ Linux       [█████████████████████                   ] 55%
-+ Git         [████████████████████████████████        ] 80%
-- Networking  [████████████████                        ] 40%
-- Wireshark   [████████                                ] 20%
-- Wazuh SIEM  [████████                                ] 20%
-- MITRE ATT&CK[████████████                            ] 30%
-```
-
-```diff
-mahmoud@kfr-el-dawar:~$ tail -f roadmap.log
-
-! @@ SOC ANALYST FAST TRACK — 2026 @@
-
-! @@ PHASE 1 — FOUNDATION @@
-+ [v] Linux fundamentals & system administration
-+ [v] Bash scripting — 3 scripts built & deployed
-+ [v] Python scripting — 5 tools built
-+ [v] Networking basics — TCP/IP, OSI, DNS, HTTP
-
-! @@ PHASE 2 — ACTIVE @@
-! [>] Networking deep dive — Wireshark, tcpdump, nmap
-! [>] Security fundamentals — MITRE ATT&CK, Kill Chain
-! [>] Building SOC home lab with Wazuh + VirtualBox
-
-! @@ PHASE 3 — QUEUED @@
-- [ ] Log analysis — Windows Events, Linux Syslog, Web
-- [ ] Threat hunting & OSINT techniques
-- [ ] Windows & Active Directory attack/defense
-- [ ] Incident Response, triage & containment
-- [ ] Blue Team CTF challenges
-
-  ─────────── TARGET ── Junior SOC Analyst / Blue Team [ Q4 2026 ] ───────────
-```
-
-```diff
-mahmoud@kfr-el-dawar:~$ ls ./projects/
-
-! REPO                            DESCRIPTION                                   STACK
-+ bash-Failed-Login-Detector      Parses auth.log, detects brute-force IPs      Bash
-+ bash-file-organizer             Auto-organizes files by type & date           Bash
-+ portfolio                       Personal site — dark cinematic, GSAP + 3D     Vue 3
-+ Wahy-Tilawah                    Quran recitation tracker app                  HTML/JS
-+ MailScope                       Email Forensics & Header Investigation         Vue 3 / TS
-- soc-home-lab                    VirtualBox: Kali attacks -> Wazuh detects     coming
-- threat-intel-reports            Malware analysis mapped to MITRE ATT&CK       coming
-- phishing-kit-analyzer           Detect & dissect phishing infrastructure      coming
-```
-
-```diff
-mahmoud@kfr-el-dawar:~$ ./connect.sh
-
-! // connection established — awaiting your message
-+ [v] Freelance web & automation projects
-+ [v] Junior SOC / Blue Team / DFIR roles
-+ [v] Open Source Security Tooling collaboration
-- [x] Fake senior titles — not interested
-```
+<br/>
 
 <div align="center">
-  <a href="https://mahmoudnazmy.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=About.me&logoColor=00FF41" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mahmoud-n/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mahmoudnazmy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=5+Years+Building+Production+Web+Apps;Transitioning+into+Cybersecurity+%26+Blue+Team;SOC+%7C+Threat+Detection+%7C+Digital+Forensics;Building+Tools+That+Actually+Matter" alt="Typing SVG" />
+
 </div>
 
-```bash
-mahmoud@kfr-el-dawar:~$ echo "Stay curious. Stay sharp. Stay dangerous." █
+<br/>
 
-  | SYNC | Profile loaded. Builder -> Defender mode: ON
-  | END  | Session closed. All packets accounted for.
-```
+---
+
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=mahmoudnazmy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+
+### Who I Am
+
+I'm a **Front-End Engineer** with 5+ years of experience building production-grade web applications — currently making a deliberate shift into **Cybersecurity & Blue Team Operations**.
+
+I build **security tooling** alongside my transition journey, because the best way to understand threats is to understand systems deeply.
+
+**Currently:**
+- Training toward **Junior SOC Analyst** role
+- Building forensics tools for email & threat investigation
+- Learning Wazuh, Wireshark, MITRE ATT&CK, OSINT
+
+**Open to:**
+- Freelance web & automation contracts
+- Junior SOC / Blue Team / DFIR positions
+
+<br clear="right"/>
+
+---
+
+### Tech Arsenal
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0040,50:00FF41,100:FF0040&height=100&section=footer" alt="Footer" />
+
+**Front-End & Web**
+
+<img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,html,css,gsap&theme=dark" />
+
+**Tooling & Automation**
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,nodejs,figma,wordpress&theme=dark" />
+
+**Security & Operations**
+
+<img src="https://skillicons.dev/icons?i=kali,vim,vscode,firebase,github,gitlab&theme=dark" />
+
 </div>
+
+---
+
+### Focus Areas
+
+<div align="center">
+
+| Domain | Stack | Status |
+|:---|:---|:---:|
+| Front-End Engineering | Vue 3, TypeScript, Tailwind, Vite | `Active` |
+| Security Operations | Wazuh, Wireshark, SIEM, Log Analysis | `Learning` |
+| Threat Detection | MITRE ATT&CK, Kill Chain, IOC Analysis | `Learning` |
+| Digital Forensics | Email Forensics, OSINT, Packet Analysis | `Building` |
+| Scripting & Automation | Python, Bash, Linux Administration | `Active` |
+
+</div>
+
+---
+
+### Stats & Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudnazmy&theme=tokyonight&hide_border=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnazmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+### Notable Projects
+
+<div align="center">
+
+[![MailScope](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=MailScope&theme=tokyonight&hide_border=true)](https://github.com/mahmoudnazmy/MailScope)
+&nbsp;
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnazmy&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/mahmoudnazmy/portfolio)
+
+</div>
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[MailScope](https://mahmoudnazmy.github.io/MailScope/)** | Email forensics platform — SMTP analysis, IOC extraction, header investigation | Vue 3, TypeScript |
+| **bash-Failed-Login-Detector** | Parses `auth.log`, detects brute-force attempts in real-time | Bash |
+| **bash-file-organizer** | Auto-organizes files by type & date with logging | Bash |
+| **soc-home-lab** | Wazuh + VirtualBox lab: simulate attacks, detect in SIEM | *(in progress)* |
+| **threat-intel-reports** | Malware samples analyzed and mapped to MITRE ATT&CK | *(coming)* |
+
+---
+
+### Connect
+
+<div align="center">
+
+<a href="https://mahmoudnazmy.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mahmoud-n/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mahmoudnazmy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudnazmy&style=flat-square&color=6366f1&label=Profile+Views" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
